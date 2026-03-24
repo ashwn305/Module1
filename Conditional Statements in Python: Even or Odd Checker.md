@@ -20,5 +20,10 @@ else:
     print("ODD")
 ```
 ## Output
+<img width="820" height="450" alt="image" src="https://github.com/user-attachments/assets/5bf9c175-97d8-4269-97f8-12d6e002bf4d" />
+
 
 ## Result
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
+
+
